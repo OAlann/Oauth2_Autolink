@@ -28,6 +28,8 @@ Como alternativa, você pode executar:
 
 para concluir a instalação a partir da linha de comando.
 
+OBS: Após identificação do primeiro gatilho (user_created), teremos uma nova pasta na raiz do plugin chamado logs. Ele é essencial para controle de auditoria e visualização dos registros de funcionamento do plugin em Administração do site -> Relatórios -> Oauth2 Autolink.
+
 ## License ##
 
 2025 Alan Araújo <Alan.araujo2625@gmail.com>
