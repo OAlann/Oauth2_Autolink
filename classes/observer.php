@@ -39,7 +39,7 @@ class observer {
     }
 
     private static function log_message($message) {
-        $logdir = __DIR__ . '/../../logs';
+        $logdir = __DIR__ . '/../../oauth2_autolink/logs';
         if (!file_exists($logdir)) {
             mkdir($logdir, 0777, true);
         }
